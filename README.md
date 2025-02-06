@@ -5,6 +5,8 @@
   <li>C++, C#</li>
   <li>Python</li>
   <li>Java</li>
+  <li>PHP</li>
+  <li>SQL/MONGODB</li>
   <li>Web Basic Technologies + React</li>
   <li>.NET + Visual Studio</li>
 </ul>
