@@ -13,7 +13,7 @@
 <p>🔭 I’m currently working on a <strong>2D RPG Video Game</strong>.</p>
 
 <h2>📚 Currently Learning</h2>
-<p>🌱 Unity + C#</p>
+<p>🌱 Unity + advanced C#</p>
 
 <h2>📫 Contact</h2>
 <ul>
