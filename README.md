@@ -21,6 +21,6 @@
 <ul>
   <li>Email: <a href="mailto:sergioma.informatica@gmail.com">sergioma.informatica@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/sergio-molina-albacete/" target="_blank">Sergio Molina Albacete</a></li>
-  <li>Itch,io: <a href=" https://sergiomolinaalbacete.itch.io/" target="_blank">SergioMolinaAlbacete</a></li>
+  <li>Itch.io: <a href="https://sergiomolinaalbacete.itch.io/" target="_blank">SergioMolinaAlbacete</a></li>
 </ul>
 
