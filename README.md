@@ -9,6 +9,7 @@
   <li>SQL/MONGODB</li>
   <li>Web Basic Technologies + React</li>
   <li>.NET + Visual Studio</li>
+  <li>🎮Unity</li>
 </ul>
 
 <h2>🎮 Projects</h2>
@@ -17,6 +18,7 @@
 
 <h2>📚 Currently Learning</h2>
 <p>🌱 Unity + advanced C#</p>
+<p>🌱 Laravel</p>
 
 <h2>📫 Contact</h2>
 <ul>
