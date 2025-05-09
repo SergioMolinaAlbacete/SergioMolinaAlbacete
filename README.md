@@ -5,7 +5,7 @@
   <li>C++, C#</li>
   <li>Python</li>
   <li>Java</li>
-  <li>PHP</li>
+  <li>PHP + Laravel</li>
   <li>SQL/MONGODB</li>
   <li>Web Basic Technologies + React</li>
   <li>.NET + Visual Studio</li>
@@ -13,6 +13,7 @@
 
 <h2>🎮 Projects</h2>
 <p>🔭 I’m currently working on a <strong>2D RPG Video Game</strong>.</p>
+<p>🔭 I’m currently working on a <strong>Laravel CRM application</strong>.</p>
 
 <h2>📚 Currently Learning</h2>
 <p>🌱 Unity + advanced C#</p>
